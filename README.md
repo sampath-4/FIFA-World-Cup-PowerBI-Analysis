@@ -6,7 +6,7 @@ This repository hosts an end-to-end Power BI data analytics project that visuali
 Rather than just displaying basic operational metrics, this project was built to showcase modern business intelligence principles: a high data-to-ink ratio, strict UI/UX visual hierarchy, explicit DAX data modeling, and clean interactive data storytelling.
 
 ---📸 Dashboard Preview
-[FIFA World Cup Dashboard](dashboard.png)
+[FIFA World Cup Dashboard](Screenshot.png)
 
 ## 💡 Key Analytical Insights Delivered
 * **The "Host Advantage" Fact-Check:** A dedicated breakdown reveals that host nations have only won the tournament 27% of the time (6 out of 22 editions), proving that home soil does not guarantee a championship.
